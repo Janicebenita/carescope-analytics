@@ -1,10 +1,27 @@
-🏥 CareScope Analytics
+<h1 align="center">🏥 CareScope Analytics</h1>
 
-> A predictive healthcare operations command center that helps hospitals see what is happening now, understand every patient journey, and prepare for what comes next.
+<h2 align="center">
+  A Predictive Healthcare Operations Command Center
+</h2>
 
-CareScope Analytics is a polished, frontend-only Healthcare Analytics SaaS dashboard built for a hackathon qualifier. It transforms complex hospital operations into a calm, actionable workspace for patient flow, resource capacity, clinical activity, scheduling, reporting, and simulated forecasting.
+<h3 align="center">
+  See what is happening now. Understand every patient journey.<br />
+  Prepare for what comes next.
+</h3>
 
-The experience is powered entirely by realistic local mock data. It requires no backend, database, authentication service, or external API.
+<p align="center">
+  <strong>CareScope Analytics</strong> is a polished, frontend-only Healthcare Analytics SaaS dashboard built for a hackathon qualifier.
+</p>
+
+<p align="center">
+  It transforms complex hospital operations into a calm, actionable workspace for
+  <strong>patient flow, resource capacity, clinical activity, scheduling, reporting, and simulated forecasting.</strong>
+</p>
+
+<p align="center">
+  ⚡ Powered entirely by realistic local mock data<br />
+  🔒 No backend&nbsp;&nbsp;•&nbsp;&nbsp;No database&nbsp;&nbsp;•&nbsp;&nbsp;No authentication service&nbsp;&nbsp;•&nbsp;&nbsp;No external API
+</p>
 
 ---
 
